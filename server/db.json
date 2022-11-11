@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://img.freepik.com/premium-photo/grilled-chicken-breast-isolated-white-background_185193-40911.jpg",
+      "productname": "Grilled Chicken",
+      "price": "120",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 2,
+      "img": "https://thumbs.dreamstime.com/b/mutton-curry-indian-food-18839518.jpg",
+      "productname": "Mutton korma",
+      "price": "100",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 3,
+      "img": "https://img.freepik.com/premium-photo/plate-with-tasty-chicken-lollipops-sauce-white-surface_392895-939.jpg?w=2000",
+      "productname": "Chicken Lollipop",
+      "price": "160",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 4,
+      "img": "https://thumbs.dreamstime.com/b/tandoori-chicken-dish-originating-indian-subcontinent-widely-popular-south-asia-middle-eastern-western-55553226.jpg",
+      "productname": "Tandori Chicken",
+      "price": "129",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 5,
+      "img": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Chicken-Tikka-2-3.jpg",
+      "productname": "Chicken Tikka",
+      "price": "200",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 6,
+      "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x500.jpg",
+      "productname": "Chicken Biryani",
+      "price": "530",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 7,
+      "img": "https://media.istockphoto.com/id/1089052958/photo/indian-chicken-tikka-biriyani-served-in-a-bowl-with-yogurt-selective-focus.jpg?s=612x612&w=0&k=20&c=Zvr2bL51JhY4newdvkydTUDLs7Bm5VR_KRym6JQuWCE=",
+      "productname": "Chicken 65 Biryani",
+      "price": "250",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 8,
+      "img": "https://img.freepik.com/free-photo/indian-chicken-biryani-served-terracotta-bowl-with-yogurt-white-background-selective-focus_466689-72553.jpg?w=2000",
+      "productname": "Mutton Biryani",
+      "price": "40",
+      "type":"nv",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 9,
+      "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2012/09/gobi-65.jpg",
+      "productname": "Gobi 65",
+      "price": "120",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 10,
+      "img": "https://thumbs.dreamstime.com/b/indian-cuisine-paneer-tikka-flying-isolated-over-plain-background-flying-paneer-tikka-isolated-over-white-black-background-164464564.jpg",
+      "productname": "Paneer Tikka",
+      "price": "100",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 11,
+      "img": "https://thumbs.dreamstime.com/b/malai-kofta-curry-black-bowl-isolated-white-background-indian-cuisine-dish-food-isolate-potato-paneer-cheese-179414974.jpg",
+      "productname": "Kofta curry",
+      "price": "160",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 12,
+      "img": "https://as2.ftcdn.net/v2/jpg/02/05/20/81/500_F_205208141_lmENbuiDrX9RjlFKWBvdrdqmyLaoi6yK.jpg",
+      "productname": "Paneer Butter Masala",
+      "price": "129",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 13,
+      "img": "https://media.istockphoto.com/id/179085494/photo/indian-biryani.jpg?s=612x612&w=0&k=20&c=VJAUfiuavFYB7PXwisvUhLqWFJ20-9m087-czUJp9Fs=",
+      "productname": "Veg Biryani",
+      "price": "200",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 14,
+      "img": "https://img.freepik.com/premium-photo/paneer-khus-khus-curry-cottage-cheese-posto-masala-made-using-poppy-seeds-indian-recipe_466689-88724.jpg?w=2000",
+      "productname": "Kadai Paneer",
+      "price": "530",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 15,
+      "img": "https://media.istockphoto.com/id/1195402166/photo/mushroom-paneer-curry-or-sabzi-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=OLtYU2KsQPBTxvURRVBaAEal53zUwQqjxrFAoNuCqsc=",
+      "productname": "Mushroom Curry",
+      "price": "250",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    },
+    {
+      "id": 16,
+      "img": "https://img.freepik.com/premium-photo/cashew-curry-indian-kaju-masala-served-bowl-pan-selective-focus_466689-33364.jpg?w=2000",
+      "productname": "Cashew Masala",
+      "price": "40",
+      "type":"v",
+      "status": "active",
+      "quantity": "1"
+    }
+  ],
+  "queries": []
+}
